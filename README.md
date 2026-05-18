@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sahil Khare
 ===================================================================================================================================
 
-Web Developer
+Full Stack Developer
 -------------
 
-Fronted Developer
+Full Stack Developer
 
 * 🌍  I'm based in Jaipur, Rajasthan
 * ✉️  You can contact me at [kharesahil253@gmail.com](mailto:kharesahil253@gmail.com)
